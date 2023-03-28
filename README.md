@@ -1,3 +1,2 @@
 # Teste-Colegio
-![image](https://user-images.githubusercontent.com/115194785/228272574-237535a8-a3f8-4c3e-b39c-62718df599c2.png)
-
+![image](https://user-images.githubusercontent.com/115194785/228273047-34f7fc4c-874c-434e-94aa-956c0af138ed.png)
